@@ -1,0 +1,440 @@
+[2025-03-25 10:36:38] Incoming Data: Array
+(
+)
+
+[2025-03-25 10:36:38] User Creation Error: Email is required
+[2025-03-25 10:36:38] Incoming Data: Array
+(
+    [email] => sabinsaju03@gmail.com
+    [role] => teacher
+    [department_id] => 45
+    [designation] => Associate Professor
+)
+
+[2025-03-25 10:36:42] Email sending failed: SMTP Error: Could not authenticate.
+[2025-03-25 10:37:28] Incoming Data: Array
+(
+)
+
+[2025-03-25 10:37:28] Incoming Data: Array
+(
+    [email] => rosemarybiju2027@mca.ajce.in
+    [role] => teacher
+    [department_id] => 45
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-25 10:37:28] User Creation Error: Email is required
+[2025-03-25 10:37:31] Email sending failed: SMTP Error: Could not authenticate.
+[2025-03-25 10:38:58] Incoming Data: Array
+(
+)
+
+[2025-03-25 10:38:58] User Creation Error: Email is required
+[2025-03-25 10:38:58] Incoming Data: Array
+(
+    [email] => rosemarybiju2027@mca.ajce.in
+    [role] => teacher
+    [department_id] => 45
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-25 10:39:01] Email sending failed: SMTP Error: Could not authenticate.
+[2025-03-25 10:39:39] Incoming Data: Array
+(
+)
+
+[2025-03-25 10:39:39] User Creation Error: Email is required
+[2025-03-25 10:39:39] Incoming Data: Array
+(
+    [email] => rosemarybiju2027@mca.ajce.in
+    [role] => teacher
+    [department_id] => 45
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-25 10:39:43] Email sending failed: SMTP Error: Could not authenticate.
+[2025-03-25 10:41:11] Incoming Data: Array
+(
+    [email] => rosemarybiju818@gmail.com
+    [role] => teacher
+    [department_id] => 45
+    [designation] => Junior Assistant Professor
+)
+
+[2025-03-25 10:41:11] Incoming Data: Array
+(
+)
+
+[2025-03-25 10:41:11] User Creation Error: Email is required
+[2025-03-25 10:41:47] Email sending failed: SMTP Error: Could not authenticate.
+[2025-03-25 13:48:18] Incoming Data: Array
+(
+    [email] => saviosaju255@gmail.com
+    [role] => teacher
+    [department_id] => 45
+    [designation] => Junior Assistant Professor
+)
+
+[2025-03-25 13:48:18] Incoming Data: Array
+(
+)
+
+[2025-03-25 13:48:18] User Creation Error: Email is required
+[2025-03-25 13:48:21] Email sending failed: SMTP Error: Could not authenticate.
+[2025-03-25 13:58:26] Incoming Data: Array
+(
+    [email] => saviosaju255@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Associate Professor
+)
+
+[2025-03-25 13:58:26] User Creation Error: Email is required
+[2025-03-25 13:59:49] Incoming Data: Array
+(
+)
+
+[2025-03-25 13:59:49] User Creation Error: Email is required
+[2025-03-25 13:59:49] Incoming Data: Array
+(
+    [email] => saviosaju255@gmail.com
+    [role] => hod
+    [department_id] => 44
+)
+
+[2025-03-25 20:09:45] Incoming Data: Array
+(
+    [email] => liyasaju08@gmail.com
+    [role] => teacher
+    [department_id] => 45
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-25 20:09:45] User Creation Error: Email is required
+[2025-03-25 20:12:13] Incoming Data: Array
+(
+    [email] => liyasaju8@gmail.com
+    [role] => teacher
+    [department_id] => 45
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-25 20:12:13] Incoming Data: Array
+(
+)
+
+[2025-03-25 20:12:13] User Creation Error: Email is required
+[2025-03-29 15:50:11] Incoming Data: Array
+(
+    [email] => lolan2627@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Junior Assistant Professor
+)
+
+[2025-03-29 15:50:11] Incoming Data: Array
+(
+)
+
+[2025-03-29 15:50:11] User Creation Error: Email is required
+[2025-03-30 11:46:04] Incoming Data: Array
+(
+)
+
+[2025-03-30 11:46:04] User Creation Error: Email is required
+[2025-03-30 11:46:04] Incoming Data: Array
+(
+    [email] => sabinkondattukunnel@gmail.com
+    [role] => teacher
+    [department_id] => 43
+    [designation] => Associate Professor
+)
+
+[2025-03-31 16:05:33] Incoming Data: Array
+(
+)
+
+[email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:05:33] User Creation Error: Email is required
+[2025-03-31 16:05:55] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:05:55] User Creation Error: Email is required
+[2025-03-31 16:05:55] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:05:55] User Creation Error: Email already exists
+[2025-03-31 16:06:54] Incoming Data: Array
+(
+    [email] => sa@gmail.com
+    [role] => hod
+    [department_id] => 43
+)
+
+[2025-03-31 16:06:54] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:06:54] User Creation Error: Email is required
+[2025-03-31 16:08:23] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:08:23] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:08:23] User Creation Error: Email is required
+[2025-03-31 16:11:08] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:11:08] User Creation Error: Email is required
+[2025-03-31 16:11:08] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:11:08] User Creation Error: Email already exists
+[2025-03-31 16:14:00] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:14:00] User Creation Error: Email already exists
+[2025-03-31 16:14:00] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:14:00] User Creation Error: Email is required
+[2025-03-31 16:14:14] Incoming Data: Array
+(
+)
+
+[email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:14:14] User Creation Error: Email is required
+[2025-03-31 16:14:14] User Creation Error: Email already exists
+[2025-03-31 16:17:35] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:17:35] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:17:35] User Creation Error: Email is required
+[2025-03-31 16:17:35] User Creation Error: Email already exists
+[2025-03-31 16:21:57] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:21:57] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:21:57] User Creation Error: Email is required
+[2025-03-31 16:21:57] User Creation Error: Email already exists
+[2025-03-31 16:26:55] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:26:55] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:26:55] User Creation Error: Email is required
+[2025-03-31 16:26:55] User Creation Error: Email already exists
+[2025-03-31 16:27:04] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:27:04] User Creation Error: Email is required
+[2025-03-31 16:27:04] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:27:04] User Creation Error: Email already exists
+[2025-03-31 16:30:34] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:30:34] User Creation Error: Email is required
+[2025-03-31 16:30:34] User Creation Error: Email already exists
+[2025-03-31 16:30:44] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:30:44] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:30:44] User Creation Error: Email is required
+[2025-03-31 16:30:44] User Creation Error: Email already exists
+[2025-03-31 16:30:51] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:30:51] User Creation Error: Email already exists
+[2025-03-31 16:30:51] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:30:51] User Creation Error: Email is required
+[2025-03-31 16:31:31] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:31:31] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:31:31] User Creation Error: Email is required
+[2025-03-31 16:31:53] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:31:53] User Creation Error: Email is required
+[2025-03-31 16:31:53] Incoming Data: Array
+(
+    [email] => sabin@gmail.com
+    [role] => hod
+    [department_id] => 43
+)
+
+[2025-03-31 16:44:44] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:44:44] User Creation Error: Email already exists
+[2025-03-31 16:44:44] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:44:44] User Creation Error: Email is required
+[2025-03-31 16:47:01] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:47:01] User Creation Error: Email is required
+[2025-03-31 16:47:29] Incoming Data: Array
+(
+)
+
+[2025-03-31 16:47:29] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:47:29] User Creation Error: Email is required
+[2025-03-31 16:47:29] User Creation Error: Email already exists
+[2025-03-31 16:53:13] Incoming Data: Array
+(
+    [email] => sabinsaju00000@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Senior Assistant Professor
+)
+
+[2025-03-31 16:53:13] User Creation Error: Email is required
+[2025-03-31 16:53:13] User Creation Error: Email already exists
+[2025-04-01 15:11:07] Incoming Data: Array
+(
+    [email] => sumusabu80@gmail.com
+    [role] => teacher
+    [department_id] => 45
+    [designation] => Junior Assistant Professor
+)
+
+[2025-04-01 15:11:07] User Creation Error: Email is required
+[2025-04-01 16:23:41] Incoming Data: Array
+(
+    [email] => sabinkondattukunnel@gmail.com
+    [role] => teacher
+    [department_id] => 45
+    [designation] => Associate Professor
+)
+
+[2025-04-01 16:23:41] Incoming Data: Array
+(
+)
+
+[2025-04-01 16:23:41] User Creation Error: Email is required
+[2025-04-08 08:24:14] Incoming Data: Array
+(
+    [email] => sabinsaju02@gmail.com
+    [role] => teacher
+    [department_id] => 44
+    [designation] => Associate Professor
+)
+
+[2025-04-08 08:24:14] Incoming Data: Array
+(
+)
+
+[2025-04-08 08:24:14] User Creation Error: Email is required

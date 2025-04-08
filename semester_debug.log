@@ -1,0 +1,181 @@
+2025-03-23 04:44:28 --- STARTING NEW REQUEST ---
+2025-03-23 04:44:28 - Database connected
+2025-03-23 04:44:28 - POST data: Array
+(
+    [department-id] => 43
+    [course-id] => 64
+    [semester-name] => ooooooooooooo
+    [start-date] => 2025-03-26
+    [end-date] => 2025-03-29
+)
+
+2025-03-23 04:44:28 - Parsed data: course_id=64, dept_id=43, name=ooooooooooooo, start=2025-03-26, end=2025-03-29
+2025-03-23 04:44:28 - Course details: Array
+(
+    [course_type] => UG+PG
+    [num_semesters] => 10
+)
+
+2025-03-23 04:44:28 - ERROR: Semester name must be in format "Semester X" where X is a number
+2025-03-23 04:44:28 --- REQUEST COMPLETED ---
+
+2025-03-23 04:44:40 --- STARTING NEW REQUEST ---
+2025-03-23 04:44:40 - Database connected
+2025-03-23 04:44:40 - POST data: Array
+(
+    [department-id] => 43
+    [course-id] => 64
+    [semester-name] => semester x
+    [start-date] => 2025-03-26
+    [end-date] => 2025-03-29
+)
+
+2025-03-23 04:44:40 - Parsed data: course_id=64, dept_id=43, name=semester x, start=2025-03-26, end=2025-03-29
+2025-03-23 04:44:40 - Course details: Array
+(
+    [course_type] => UG+PG
+    [num_semesters] => 10
+)
+
+2025-03-23 04:44:40 - ERROR: Semester name must be in format "Semester X" where X is a number
+2025-03-23 04:44:40 --- REQUEST COMPLETED ---
+
+2025-03-23 04:44:51 --- STARTING NEW REQUEST ---
+2025-03-23 04:44:51 - Database connected
+2025-03-23 04:44:51 - POST data: Array
+(
+    [department-id] => 43
+    [course-id] => 64
+    [semester-name] => semester lll
+    [start-date] => 2025-03-26
+    [end-date] => 2025-03-29
+)
+
+2025-03-23 04:44:51 - Parsed data: course_id=64, dept_id=43, name=semester lll, start=2025-03-26, end=2025-03-29
+2025-03-23 04:44:51 - Course details: Array
+(
+    [course_type] => UG+PG
+    [num_semesters] => 10
+)
+
+2025-03-23 04:44:51 - ERROR: Semester name must be in format "Semester X" where X is a number
+2025-03-23 04:44:51 --- REQUEST COMPLETED ---
+
+2025-03-23 04:45:02 --- STARTING NEW REQUEST ---
+2025-03-23 04:45:02 - Database connected
+2025-03-23 04:45:02 - POST data: Array
+(
+    [department-id] => 43
+    [course-id] => 64
+    [semester-name] => semester 5
+    [start-date] => 2025-03-26
+    [end-date] => 2025-03-29
+)
+
+2025-03-23 04:45:02 - Parsed data: course_id=64, dept_id=43, name=semester 5, start=2025-03-26, end=2025-03-29
+2025-03-23 04:45:02 - Course details: Array
+(
+    [course_type] => UG+PG
+    [num_semesters] => 10
+)
+
+2025-03-23 04:45:02 - Semester number: 5
+2025-03-23 04:45:02 - ERROR: Semester duration should be approximately 6 months
+2025-03-23 04:45:02 --- REQUEST COMPLETED ---
+
+2025-03-23 04:45:21 --- STARTING NEW REQUEST ---
+2025-03-23 04:45:21 - Database connected
+2025-03-23 04:45:21 - POST data: Array
+(
+    [department-id] => 43
+    [course-id] => 64
+    [semester-name] => semester 5
+    [start-date] => 2025-01-01
+    [end-date] => 2025-07-01
+)
+
+2025-03-23 04:45:21 - Parsed data: course_id=64, dept_id=43, name=semester 5, start=2025-01-01, end=2025-07-01
+2025-03-23 04:45:21 - Course details: Array
+(
+    [course_type] => UG+PG
+    [num_semesters] => 10
+)
+
+2025-03-23 04:45:21 - Semester number: 5
+2025-03-23 04:45:21 - SQL: INSERT INTO semesters (name, course_id, start_date, end_date, department_id) 
+                VALUES ('semester 5', 64, '2025-01-01', '2025-07-01', 43)
+2025-03-23 04:45:21 - Success! Inserted ID: 80
+2025-03-23 04:45:21 --- REQUEST COMPLETED ---
+
+2025-03-23 04:47:02 --- STARTING NEW REQUEST ---
+2025-03-23 04:47:02 - Database connected
+2025-03-23 04:47:02 - POST data: Array
+(
+    [department-id] => 43
+    [course-id] => 53
+    [semester-name] => semester 22
+    [start-date] => 2025-01-01
+    [end-date] => 2025-07-01
+)
+
+2025-03-23 04:47:02 - Parsed data: course_id=53, dept_id=43, name=semester 22, start=2025-01-01, end=2025-07-01
+2025-03-23 04:47:02 - Course details: Array
+(
+    [course_type] => UG
+    [num_semesters] => 4
+)
+
+2025-03-23 04:47:02 - Semester number: 22
+2025-03-23 04:47:02 - ERROR: UG courses can only have semesters from 1 to 8
+2025-03-23 04:47:02 --- REQUEST COMPLETED ---
+
+2025-03-23 04:47:11 --- STARTING NEW REQUEST ---
+2025-03-23 04:47:11 - Database connected
+2025-03-23 04:47:11 - POST data: Array
+(
+    [department-id] => 43
+    [course-id] => 53
+    [semester-name] => semester 8
+    [start-date] => 2025-01-01
+    [end-date] => 2025-07-01
+)
+
+2025-03-23 04:47:11 - Parsed data: course_id=53, dept_id=43, name=semester 8, start=2025-01-01, end=2025-07-01
+2025-03-23 04:47:11 - Course details: Array
+(
+    [course_type] => UG
+    [num_semesters] => 4
+)
+
+2025-03-23 04:47:11 - Semester number: 8
+2025-03-23 04:47:11 - SQL: INSERT INTO semesters (name, course_id, start_date, end_date, department_id) 
+                VALUES ('semester 8', 53, '2025-01-01', '2025-07-01', 43)
+2025-03-23 04:47:11 - Success! Inserted ID: 81
+2025-03-23 04:47:11 --- REQUEST COMPLETED ---
+
+2025-03-23 04:55:28 --- STARTING NEW REQUEST ---
+2025-03-23 04:55:28 --- STARTING NEW REQUEST ---
+Connected to database
+POST data: Array
+(
+    [department-id] => 42
+    [course-id] => 48
+    [semester-name] => semester 
+    [start-date] => 2025-01-01
+    [end-date] => 2025-07-01
+)
+
+POST data: Array
+(
+    [department-id] => 42
+    [course-id] => 48
+    [semester-name] => semester 
+    [start-date] => 2025-01-01
+    [end-date] => 2025-07-01
+)
+
+Error: Invalid semester name format
+--- REQUEST COMPLETED ---
+
+--- REQUEST COMPLETED ---
+

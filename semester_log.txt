@@ -1,0 +1,32 @@
+2025-03-22 15:38:50 - Request: Array
+(
+    [department-id] => 42
+    [course-id] => 48
+    [semester-name] => semester 4
+    [start-date] => 2025-01-01
+    [end-date] => 2025-07-01
+)
+
+2025-03-22 15:38:50 - Parsed data: course_id=48, department_id=42, name=semester 4, start=2025-01-01, end=2025-07-01
+2025-03-22 15:38:50 - Success: Inserted semester ID 73
+2025-03-22 15:41:25 - Request: Array
+(
+    [department-id] => 42
+    [course-id] => 48
+    [semester-name] => semester 1
+    [start-date] => 2025-01-01
+    [end-date] => 2025-07-01
+)
+
+2025-03-22 15:41:25 - Request: Array
+(
+    [department-id] => 42
+    [course-id] => 48
+    [semester-name] => semester 1
+    [start-date] => 2025-01-01
+    [end-date] => 2025-07-01
+)
+
+2025-03-22 15:41:25 - Parsed data: course_id=48, department_id=42, name=semester 1, start=2025-01-01, end=2025-07-01
+2025-03-22 15:41:25 - Success: Inserted semester ID 74
+2025-03-22 15:41:25 - Success: Inserted semester ID 75
